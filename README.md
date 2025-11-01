@@ -19,7 +19,7 @@ Figma – UI Design & Animation
 ## 🎥 Preview
 Click below to interact with the design directly in Figma:
 [View prototype](https://www.figma.com/proto/0clNKTMRfEm4xroOPB1xY1/Untitled?page-id=0%3A1&node-id=3-73&viewport=80%2C190%2C0.29&t=SHcttTrqjUZwQ9WF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A2)
-<p float="left">
+<p>
+  <img src="Design page.png" width="500">
 <img src="Final Page.png" width="500">
-<img src="Design page.png" width="500">
 </p>
